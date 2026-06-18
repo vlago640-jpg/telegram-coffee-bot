@@ -19,3 +19,9 @@
 2. Создать виртуальное окружение и установить зависимости
 3. Создать файл `.env` с переменной `BOT_TOKEN`
 4. Запустить `python bot.py`
+🤖 Попробовать бота:@bean_there_demo_bot
+
+
+
+(главное меню) <img width="1042" height="1195" alt="image" src="https://github.com/user-attachments/assets/19dff695-50ce-4f10-9b29-c40d8e0823f1" />
+(оставление заявки) <img width="507" height="327" alt="image" src="https://github.com/user-attachments/assets/ac3b7c8e-0ec7-48aa-a6a3-d7f5c9c85dd1" />
